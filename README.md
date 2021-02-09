@@ -2,4 +2,5 @@ An Asset Management company wants to make investments in a few companies. It wan
 The firm has two minor constraints: 
 1. It wants to invest between 5 to 15 million USD per round of investment.
 2. It wants to invest only in English-speaking countries.
+
 Concepts of EDA are used to solve this problem.
